@@ -21,6 +21,10 @@ The goal is to explore and illustrate distribution shape fitting while avoiding 
 - `matplotlib`
 - `numpy`
 
+## 📷 Output Preview
+![normal_curve_histograms Output](normal_curve_histograms.png)
+
+
 ## 🚀 How to Run
 ```bash
 python normal_curve_histograms.py
